@@ -1,0 +1,20 @@
+{
+  "name": "reflect-api-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc -w -p ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "reflect-metadata": "^0.1.10",
+    "typescript": "^2.5.3"
+  },
+  "dependencies": {
+    "container-ioc": "^1.7.9"
+  }
+}
